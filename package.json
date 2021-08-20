@@ -1,0 +1,19 @@
+{
+  "name": "cricinfo",
+  "version": "1.0.0",
+  "description": "A web scrapper that scrapes details of BatsMan of each team that played in IPL",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryadav-byte/cricinfo.git"
+  },
+  "author": "Ramakant Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryadav-byte/cricinfo/issues"
+  },
+  "homepage": "https://github.com/ryadav-byte/cricinfo#readme"
+}
